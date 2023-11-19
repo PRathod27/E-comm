@@ -1,0 +1,20 @@
+.home-container-3{
+    margin-left: 50px;
+    width: 30%;
+}
+.home-container-4{
+    align-items: center;
+    display: flex;
+    box-shadow: 10px 10px color(white white white white);
+}
+.sub-container{ 
+    /* /* align-content: center; */
+    display: flex;
+    /* width: 19.0%;
+    margin: 0px 3px; */
+    margin: 5px 5px 5px 5px;
+    margin-left: 18px ;
+    border: 1px solid #dedede; 
+    padding: 15px;
+    position: relative;
+}
